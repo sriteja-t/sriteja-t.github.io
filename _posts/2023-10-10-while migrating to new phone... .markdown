@@ -15,6 +15,6 @@ Luckily, I still have my photos and files on Google Photos and Drive, so they ar
 
 I searched the Google One website to see if I had a backup of my data, but I only found a g31 backup file with an incomplete warning. This means that the backup is not reliable and I cannot use it. 
 
-and this is what I found. ![Alt text](gbackup.png)
+and this is what I found. ![Alt text][gbackup.png]
 
 Ping me, if anyone knows to use the incomplete backup file or any better solution.
