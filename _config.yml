@@ -23,8 +23,8 @@ email: sriteja.thirakala@gmail.com
 description: |  
     "Life is binary, you either be 0 or 1"
                                           -tst
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sriteja-t.github.io"
 twitter_username: askyourbrain
 github_username:  sriteja-t
 linkedin_username: sriteja-t
